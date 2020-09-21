@@ -1,0 +1,6 @@
+module.exports = {
+    ORACLE_USER: "TESTE",
+    ORACLE_PASSWORD: "TESTE",
+    ORACLE_CONNECTSTRING: "192.168.1.247/TESTE",
+  };
+  
